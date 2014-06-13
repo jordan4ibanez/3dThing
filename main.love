@@ -1,0 +1,3 @@
+love.update()
+	print("hey")
+end
